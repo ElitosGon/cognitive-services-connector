@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/ElitosGon/cognitive-services-connector/issues"
   },
-  "homepage": "https://github.com/ElitosGon/cognitive-services-connector#readme"
+  "homepage": "https://github.com/ElitosGon/cognitive-services-connector#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
 }
