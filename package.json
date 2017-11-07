@@ -1,0 +1,27 @@
+{
+  "name": "cognitive-services-connector",
+  "version": "1.0.0",
+  "description": "Allows you to connect cognitive services from different providers with your Node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitosGon/cognitive-services-connector.git"
+  },
+  "keywords": [
+    "cognitive",
+    "services",
+    "multiple",
+    "providers",
+    "api",
+    "connection"
+  ],
+  "author": "Elias Gonzalez (elias.gonzalezma@gmail.com)",
+  "license": "SEE LICENSE IN http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.com/ElitosGon/cognitive-services-connector/issues"
+  },
+  "homepage": "https://github.com/ElitosGon/cognitive-services-connector#readme"
+}
